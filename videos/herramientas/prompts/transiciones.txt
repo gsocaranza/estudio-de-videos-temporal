@@ -1,0 +1,16 @@
+Eres editor y motion designer de videos cortos verticales virales. Ya tenemos un desarme general de este video; ahora necesitamos SÓLO cuatro cosas, con precisión de décimas de segundo, para reproducirlas con código (Remotion). Responde en español, en Markdown. No resumas la historia.
+
+## 1. Cada transición
+Una tabla con TODAS las transiciones entre planos, en orden: tiempo exacto [mm:ss.d] | de qué plano a qué plano | tipo (corte seco, corte con acercamiento, barrido/whip pan, deslizamiento empujando el plano anterior, máscara, zoom a través de un objeto, match cut por forma o color, morph, flash, desenfoque, giro 3D, cortinilla de texto, etc.) | dirección | duración en cuadros a 30 cps | curva (lineal, sale rápido y frena, etc.) | si lleva desenfoque de movimiento | el sonido que la acompaña. Al final: cuántas transiciones hay, cuántas son corte seco, y los 5 tipos más usados.
+
+## 2. Las pausas de la voz
+Lista cada silencio de la narración de más de 0.25 s: tiempo, duración, qué se dijo justo antes y justo después, y qué pasa en la imagen y en la música durante ese silencio (¿se congela?, ¿entra un golpe?, ¿se va la música?). ¿Cuántas pausas dramáticas hay por minuto? ¿La voz acelera o frena en algún tramo?
+
+## 3. Cuándo hay texto en pantalla y cuándo no
+Tabla de tramos: inicio–fin | hay subtítulos continuos sí/no | hay texto gráfico (palabra clave grande, cifra, rótulo, fecha) sí/no | cuál. Di qué porcentaje del video tiene subtítulos y qué criterio parece seguir para poner texto (¿sólo las cifras? ¿sólo la palabra que importa?). Describe cómo entra y sale una palabra clave grande cuando aparece.
+
+## 4. La cámara en cada plano
+Para cada plano: duración y qué hace la cámara (quieta, acercamiento lento constante, alejamiento, paneo, seguimiento, órbita, sacudida) con su velocidad aproximada (por ejemplo «escala de 1.00 a 1.08 en 3 s»). ¿Hay algún plano donde la cámara esté completamente quieta? ¿Cuántos elementos se mueven a la vez dentro de un plano?
+
+## 5. Las 8 técnicas de dinamismo más copiables
+Las que más hacen que el video se sienta vivo y entretenido, cada una con su marca de tiempo y la regla exacta para reproducirla.

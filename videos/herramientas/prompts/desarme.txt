@@ -1,0 +1,32 @@
+Eres director de animación y guionista de videos explicativos. Queremos reproducir el ESTILO de este video (no su contenido) para hacer videos de capacitación de un software. Desármalo con todo el detalle posible. Responde en español, en Markdown, con estas secciones:
+
+## 1. Ficha
+Título, canal, duración, idioma, tema, público al que va dirigido.
+
+## 2. Por qué funciona
+Qué hace que la explicación sea tan clara y agradable: estructura, ritmo, metáforas, cómo construye un concepto sobre el anterior.
+
+## 3. Estructura del guión
+Las partes del guión (gancho, planteamiento, desarrollo, cierre…) con sus tiempos. Cuántas palabras por minuto aproximadamente habla el narrador.
+
+## 4. Estilo de narración
+Voz (género, edad aparente, tono, energía, velocidad), registro, si usa humor, preguntas retóricas, segunda persona, etc. Música y efectos de sonido: cuándo entran y cómo acompañan.
+
+## 5. Estilo visual
+- Técnica de animación (2D vectorial, motion graphics, pizarra, 3D, ilustración plana, etc.) y herramienta probable (After Effects, Manim, Motion Canvas, etc.).
+- Paleta de colores con códigos hex aproximados (fondo, primarios, acentos, texto).
+- Tipografía (familia probable, pesos, tamaños relativos, mayúsculas).
+- Personajes o iconografía: cómo están dibujados (grosor de línea, sombras, esquinas, nivel de detalle).
+- Composición: cuántos elementos hay en pantalla a la vez, uso del espacio vacío, jerarquía.
+
+## 6. Catálogo de animaciones
+Una lista de TODOS los tipos de movimiento que usa, cada uno con: nombre que le darías, descripción precisa (qué se mueve, desde dónde, curva de easing, duración aproximada en segundos), y un ejemplo con su marca de tiempo. Incluye entradas, salidas, transiciones entre escenas, cámara (zoom, paneo), texto que aparece, flechas que se dibujan, contadores, diagramas que se construyen, resaltados.
+
+## 7. Desglose escena por escena
+Una tabla con TODAS las escenas: tiempo de inicio–fin | lo que dice el narrador (resumido) | lo que se ve | animaciones usadas | transición a la siguiente.
+
+## 8. Transcripción
+La narración completa, palabra por palabra, en su idioma original, con marca de tiempo [mm:ss] cada vez que cambia la escena.
+
+## 9. Receta para reproducir el estilo
+Reglas concretas y medibles (duraciones, easings, márgenes, cantidad de texto en pantalla, frecuencia de cambios de escena) que un programador debería seguir para lograr un video que se sienta igual.

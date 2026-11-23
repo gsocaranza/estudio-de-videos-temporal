@@ -1,0 +1,30 @@
+Este video enseña a producir videos con código usando herramientas como Remotion y HyperFrames con agentes de IA (Claude Code u otros). Nosotros ya producimos videos así: Remotion como base (React + Three.js, voz de Google TTS anclada palabra por palabra con Whisper) y piezas de HyperFrames renderizadas a WebM con alfa que Remotion monta encima. Queremos saber qué técnicas, herramientas y prácticas del video nos sirven para mejorar.
+
+Responde en español, en Markdown, con estas secciones, y con marca de tiempo [mm:ss] en cada punto:
+
+## 1. Ficha
+Título, autor o canal, duración, de qué trata en dos líneas.
+
+## 2. El flujo de trabajo que enseña
+Paso por paso, desde la idea hasta el MP4: qué hace la persona, qué hace el agente, qué herramientas usa en cada paso.
+
+## 3. Cómo combina Remotion y HyperFrames (o las herramientas que use)
+Qué hace cada una, cómo se pasan las piezas entre ellas, en qué formato, y por qué las combina.
+
+## 4. Herramientas, comandos, skills y servicios
+Todo lo que nombra o enseña en pantalla: paquetes, CLIs, skills de agentes, plantillas, bloques del catálogo, servicios de voz, música, subtítulos, IA de imagen o video. Con lo que dice de cada uno.
+
+## 5. Prompts e instrucciones al agente
+Los prompts que escribe o enseña, lo más textual posible, y cómo estructura las instrucciones (archivos de reglas, guías de estilo, especificaciones).
+
+## 6. Técnicas de producción y de calidad
+Ritmo, transiciones, tipografía, subtítulos animados, sonido, revisión de fotogramas, iteración, cómo evita errores, cómo verifica el resultado.
+
+## 7. Errores y límites que menciona
+Lo que dice que falla, cuesta o no conviene.
+
+## 8. Lo que se ve en pantalla
+Ejemplos de videos que muestra: cómo se ven, qué efectos usan.
+
+## 9. Transcripción
+La narración completa, en su idioma original, con marca de tiempo cada vez que cambia el tema.

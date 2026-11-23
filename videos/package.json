@@ -1,0 +1,39 @@
+{
+  "name": "puntualiza-videos",
+  "private": true,
+  "description": "El estudio de videos explicativos de Puntualiza: Remotion + Three.js. Ver docs/videos-explicativos.md",
+  "type": "module",
+  "scripts": {
+    "estudio": "remotion studio",
+    "render": "remotion render",
+    "tipos": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@react-three/drei": "10.7.9",
+    "@react-three/fiber": "9.8.2",
+    "@remotion/animation-utils": "4.0.536",
+    "@remotion/cli": "4.0.536",
+    "@remotion/gif": "4.0.536",
+    "@remotion/google-fonts": "4.0.536",
+    "@remotion/layout-utils": "4.0.536",
+    "@remotion/light-leaks": "4.0.536",
+    "@remotion/lottie": "4.0.536",
+    "@remotion/motion-blur": "4.0.536",
+    "@remotion/noise": "4.0.536",
+    "@remotion/paths": "4.0.536",
+    "@remotion/shapes": "4.0.536",
+    "@remotion/starburst": "4.0.536",
+    "@remotion/three": "4.0.536",
+    "@remotion/transitions": "4.0.536",
+    "lottie-web": "5.13.0",
+    "react": "19.2.9",
+    "react-dom": "19.2.9",
+    "remotion": "4.0.536",
+    "three": "0.186.1"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.18",
+    "@types/three": "0.186.0",
+    "typescript": "5.9.3"
+  }
+}

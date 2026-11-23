@@ -1,0 +1,53 @@
+{
+  "titulo": "El registro de jornada · Bolaños Abogados",
+  "publico": "Clientes y prospectos de Bolaños Abogados; lo distribuye Oscar Bolaños",
+  "estilo_voz": "Lee con voz de presentadora corporativa mexicana, segura, clara y profesional.",
+  "velocidad_voz": 1.28,
+  "escenas": [
+    {
+      "id": "01-hoy",
+      "texto": "Hoy, muchas empresas no saben con certeza quién llegó, a qué hora, ni cuántas horas trabajó cada persona."
+    },
+    {
+      "id": "02-dispersa",
+      "texto": "La asistencia vive en listas de papel, en hojas de cálculo y en la memoria de cada supervisor. Y cada centro de trabajo lleva la suya."
+    },
+    {
+      "id": "03-ley",
+      "texto": "Eso está por cambiar. Con la reforma a la Ley Federal del Trabajo, el registro electrónico de la jornada será obligatorio a partir de dos mil veintisiete.",
+      "subtitulo": "Eso está por cambiar. Con la reforma a la Ley Federal del Trabajo, el registro electrónico de la jornada será obligatorio a partir de 2027."
+    },
+    {
+      "id": "04-jornada",
+      "texto": "Y la jornada máxima bajará año con año, de cuarenta y ocho a cuarenta horas por semana."
+    },
+    {
+      "id": "05-prueba",
+      "texto": "En un juicio laboral, es la empresa la que debe probar la jornada de cada colaborador. Sin un registro confiable, no hay con qué."
+    },
+    {
+      "id": "06-marca",
+      "texto": "Con Puntualiza, cada colaborador registra su entrada y su salida desde la aplicación, un kiosco o una llamada telefónica."
+    },
+    {
+      "id": "07-evidencia",
+      "texto": "Cada marca queda sellada con su hora exacta. No se puede editar ni borrar: es evidencia."
+    },
+    {
+      "id": "08-control",
+      "texto": "La empresa ve en tiempo real quién llegó a cada centro de trabajo, y los retardos, las faltas y las horas extra se calculan solos."
+    },
+    {
+      "id": "09-cumplimiento",
+      "texto": "Las reglas siguen la ley de cada año, las alertas avisan a tiempo, y el informe para una inspección está listo cuando se pide."
+    },
+    {
+      "id": "10-cierre",
+      "texto": "Puntualiza. Control de asistencia con evidencia, listo para cumplir."
+    },
+    {
+      "id": "11-bolanos",
+      "texto": "Con el respaldo de Bolaños Abogados."
+    }
+  ]
+}

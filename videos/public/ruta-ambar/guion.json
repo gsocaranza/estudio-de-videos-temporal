@@ -1,0 +1,95 @@
+{
+  "titulo": "La ruta de la transición · Logística Ámbar",
+  "publico": "Mariana, Daniel y Andrés, de Logística Ámbar; lo manda Oscar Bolaños con su correo del 10 de noviembre de 2026 (hoja de ruta v2, del 9 de noviembre)",
+  "voz": "gemini-3.8-flash-tts · Kore · una sola toma (herramientas/narra-toma.py)",
+  "direccion_voz": "Eres una creadora mexicana de videos de divulgación que presenta un plan de trabajo: ritmo ágil y natural de conversación, segura, cálida, con energía genuina pero sin exagerar; nada de voz de locutora ni de anuncio.",
+  "velocidad_voz": 1.15,
+  "escenas": [
+    {
+      "id": "01-saludo",
+      "texto": "Mariana, Daniel y Andrés, gracias por confirmar la propuesta y por adoptar Puntualiza. Esta es la ruta para la transición de Recursos Humanos de Ámbar."
+    },
+    {
+      "id": "02-mapa",
+      "texto": "Son seis pasos, del diez de noviembre al uno de enero. En cada uno, lo que hacemos nosotros y lo que necesitamos de ustedes."
+    },
+    {
+      "id": "03-contratos",
+      "texto": "Primero, la formalización. El martes diez les enviamos los dos contratos: el de servicios jurídicos con el despacho y el de la plataforma Puntualiza. Los firmamos a más tardar el viernes trece.",
+      "subtitulo": "1 · Formalización. Contratos el 10 de noviembre; firma a más tardar el 13."
+    },
+    {
+      "id": "04-alfa",
+      "texto": "Segundo, la puesta en marcha. El miércoles once, con el acceso de Mariana a Alfa, pasamos la información de los trabajadores a Puntualiza, sin cargarles trabajo.",
+      "subtitulo": "2 · Puesta en marcha. Acceso a Alfa: miércoles 11 de noviembre."
+    },
+    {
+      "id": "05-demo",
+      "texto": "Y el viernes trece les hacemos una demostración de la plataforma, a la dirección, a Mariana y a los encargados.",
+      "subtitulo": "Demostración: viernes 13 de noviembre."
+    },
+    {
+      "id": "06-politica",
+      "texto": "Antes de su primera marca, cada trabajador firma en su centro, con su encargado, la política de registro electrónico de jornada y, si la requiere, una adenda a su contrato.",
+      "subtitulo": "Firma de la política y la adenda: 13 o 17 de noviembre."
+    },
+    {
+      "id": "07-implementacion",
+      "texto": "Tercero, el periodo de implementación: del diecisiete de noviembre al dieciséis de diciembre, en los cuatro centros y sin mensualidad.",
+      "subtitulo": "3 · Implementación. 17 de noviembre al 16 de diciembre."
+    },
+    {
+      "id": "08-reportes",
+      "texto": "Y cada viernes, Mariana recibe el reporte de la semana: las marcas, las incidencias, las firmas pendientes y los ajustes."
+    },
+    {
+      "id": "09-entrega",
+      "texto": "Cuarto, la entrega-recepción con Mariana: dos sesiones por videollamada, el veinticuatro y el veintiséis de noviembre, y el acta de cierre el treinta.",
+      "subtitulo": "4 · Entrega-recepción. 24 y 26 de noviembre; acta el 30."
+    },
+    {
+      "id": "10-inicio",
+      "texto": "Quinto, el inicio formal del servicio de administración externa de personal: el martes uno de diciembre.",
+      "subtitulo": "5 · Inicio formal. Martes 1 de diciembre de 2026."
+    },
+    {
+      "id": "11-reglamento",
+      "texto": "Ese mes actualizamos el Reglamento Interno de Trabajo: lo aprueba la Comisión Mixta el tres de diciembre, y el once queda depositado y fijado en cada centro.",
+      "subtitulo": "Comisión Mixta: 3 de diciembre. Depósito y fijación: 11 de diciembre."
+    },
+    {
+      "id": "12-ley",
+      "texto": "Y sexto, el uno de enero de dos mil veintisiete, el registro electrónico de jornada es obligatorio y baja la jornada máxima. Para entonces, todo queda firmado y configurado.",
+      "subtitulo": "6 · Registro electrónico exigible. 1 de enero de 2027. LFT art. 132-XXXIV."
+    },
+    {
+      "id": "13-necesitamos",
+      "texto": "Para cumplir cada fecha, esto es lo que necesitamos de ustedes."
+    },
+    {
+      "id": "14-noviembre",
+      "texto": "El once de noviembre, el acceso a Alfa con la información de configuración, y los nombres del administrador de la plataforma y del encargado de Querétaro. El doce, su visto bueno a la política y a la adenda.",
+      "subtitulo": "Alfa, configuración y responsables: 11 nov · Visto bueno: 12 nov"
+    },
+    {
+      "id": "15-expedientes",
+      "texto": "El trece, los procedimientos de su sistema ISO. El veinte, los expedientes, los contratos, los saldos de vacaciones y el directorio de supervisores. Y el veintitrés, los asuntos en curso.",
+      "subtitulo": "Procedimientos ISO: 13 nov · Expedientes: 20 nov · Asuntos en curso: 23 nov"
+    },
+    {
+      "id": "16-espacio",
+      "texto": "Y para el treinta, un espacio privado para videollamada en cada centro.",
+      "subtitulo": "Espacio para videollamada: 30 nov"
+    },
+    {
+      "id": "17-canal",
+      "texto": "Desde hoy, toda solicitud entra por un solo canal, el correo o el WhatsApp de Oscar, para que cada una quede registrada.",
+      "subtitulo": "contacto@ejemplo.mx · WhatsApp 33 0000 0000"
+    },
+    {
+      "id": "18-arranque",
+      "texto": "Arrancamos con una reunión por videollamada el miércoles once o el jueves doce, a las once de la mañana o a las cuatro de la tarde. Con el respaldo de Bolaños Abogados.",
+      "subtitulo": "Reunión de arranque: miércoles 11 o jueves 12 de noviembre, 11:00 o 16:00."
+    }
+  ]
+}

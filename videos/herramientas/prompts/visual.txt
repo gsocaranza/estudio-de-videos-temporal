@@ -1,0 +1,12 @@
+Somos programadores y vamos a reproducir el LOOK y el MOVIMIENTO de este video con código (Three.js / react-three-fiber dentro de Remotion). Necesito una descripción visual técnica, muy concreta, en español y en Markdown. No resumas la historia: describe cómo está construido.
+
+1. **Personajes**: proporciones exactas (alto del cuerpo vs. diámetro de la cabeza, en relación), forma del cuerpo (cápsula, cono, cilindro), ojos (tamaño, separación, color), si tienen boca, cejas, cabello, gorra, accesorios. Manos: ¿esferas sueltas? ¿a qué distancia del cuerpo? Colores de cada personaje con hex aproximado. Material: mate, satinado, plástico, madera; ¿hay contorno (outline)?
+2. **Cómo se mueven los personajes**: ¿caminan, se deslizan, saltan a saltitos? ¿balanceo lateral al avanzar? ¿cómo giran? ¿parpadean? ¿hay squash & stretch? Duraciones típicas.
+3. **Escenarios**: ¿dioramas cerrados con fondo de color sólido o entornos completos? Paredes, piso, muebles: nivel de detalle, esquinas redondeadas o duras, texturas o colores planos. Color del fondo/cielo.
+4. **Iluminación y render**: dirección de la luz principal, sombras (suaves/duras, proyectadas al piso), oclusión ambiental, si hay profundidad de campo, si parece render de Blender Eevee/Cycles.
+5. **Cámara**: lente (gran angular o tele / casi isométrica), altura y ángulo típicos (cenital 30–45°, a la altura de los ojos), movimientos (dolly, paneo, órbita), su velocidad y si siempre está en movimiento lento.
+6. **Gráficos 2D sobre el 3D**: hojas de papel, checklists, sellos, palomitas, cruces, pantallas: cómo están dibujados, cómo aparecen y desaparecen, colores, tipografía.
+7. **Transiciones entre escenas**: cortes, fundidos, barridos, cuánto duran, a qué color funden.
+8. **Lista de los 10 momentos visualmente más logrados** con su marca de tiempo [mm:ss] y por qué funcionan.
+9. **Ritmo**: cuántos segundos dura cada plano en promedio; cuántas veces se mueve la cámara por minuto.
+10. **Sonido**: describe la música (instrumentos, tempo aproximado en BPM, volumen relativo a la voz) y cada efecto de sonido con su marca de tiempo.

@@ -1,0 +1,39 @@
+Eres estratega de contenido para redes sociales y guionista de videos cortos educativos que se vuelven virales (TikTok, Instagram Reels, YouTube Shorts). Este video es una REFERENCIA: queremos entender por qué retiene a la gente para producir una serie de videos cortos verticales, educativos y sin vender nada, sobre el mundo del trabajo (jornada laboral, horas, historia del trabajo, leyes laborales, datos curiosos). Los vamos a animar con código (Remotion), así que necesitamos reglas concretas y medibles, no opiniones generales.
+
+Mira el video entero, imagen y audio, y responde en español, en Markdown, con estas secciones. Pon marca de tiempo [mm:ss] en todo lo que cites.
+
+## 1. Ficha
+Título, canal, duración, formato (vertical u horizontal), idioma, tema, público.
+
+## 2. El gancho (los primeros 3 segundos, cuadro por cuadro)
+Qué se ve y qué se oye en cada medio segundo de los primeros 3 s. La primera frase textual. Qué tipo de gancho es (pregunta, dato que choca, contradicción, promesa, "nadie te dijo que…", imagen imposible, etc.) y por qué obliga a quedarse. ¿Hay texto en pantalla desde el cuadro 1? ¿Movimiento desde el cuadro 1?
+
+## 3. Mecánica de retención
+Cómo evita que la persona deslice: bucles abiertos (preguntas que se contestan después), "pero…", re-ganchos a mitad, escalada de datos, payoff final, si el final enlaza con el inicio para que el video se repita (loop). Lista cada recurso con su marca de tiempo.
+
+## 4. Estructura del guion
+Las partes (gancho, contexto, giro, desarrollo, remate, cierre/llamado) con su duración en segundos. Palabras por minuto del narrador. Longitud de las frases. Cuántas ideas por video.
+
+## 5. Texto en pantalla y subtítulos
+Estilo de los subtítulos: ¿palabra por palabra, por frases?, cuántas palabras a la vez, posición vertical (en % de la altura), tamaño relativo, peso, mayúsculas, color, resaltado de la palabra clave (color, caja, escala), animación de entrada (pop, escala, deslizamiento) con duración aproximada. Títulos o rótulos grandes aparte de los subtítulos. Cifras grandes y cómo se animan (contadores, etc.).
+
+## 6. Lenguaje visual
+Técnica (motion graphics, metraje de archivo, ilustración, 3D, mapas, fotos históricas, pantalla dividida…). Paleta con hex aproximados. Cuántos elementos a la vez. Zona segura: ¿deja libres la franja de arriba y la de abajo para la interfaz de la red social?
+
+## 7. Ritmo de edición
+Duración promedio de cada plano en segundos, cuántos cortes hay en total, y si el ritmo acelera o frena en algún punto. Movimientos de cámara (zoom lento constante, punch-in, paneo, sacudida) y cada cuánto.
+
+## 8. Sonido
+Voz (género, edad aparente, energía, velocidad, tono: conversacional, dramático, documental). Música (género, tempo en BPM aproximado, volumen relativo a la voz, si cambia o se corta para dar énfasis). Efectos de sonido: lista cada uno (whoosh, pop, click, riser, impacto, máquina de escribir, caja registradora…) con su marca de tiempo y qué acompaña. ¿Hay silencios dramáticos?
+
+## 9. Desglose escena por escena
+Tabla con TODAS las escenas: inicio–fin | lo que dice (textual) | lo que se ve | texto en pantalla | efecto de sonido | transición.
+
+## 10. Transcripción
+La narración completa, palabra por palabra, en su idioma original, con marca de tiempo.
+
+## 11. Los 10 recursos más rescatables
+Los diez recursos de marketing, guion, edición o diseño de este video que más convendría copiar, ordenados del más al menos importante, cada uno con su marca de tiempo y la regla concreta para reproducirlo.
+
+## 12. Lo que NO conviene copiar
+Lo que funciona aquí pero se vería mal, engañoso o barato en una marca B2B seria (software de recursos humanos para empresas).
